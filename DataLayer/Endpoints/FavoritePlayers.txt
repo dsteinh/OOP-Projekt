@@ -1,0 +1,2 @@
+Makoto HASEBE;True;17;True;Midfield
+Naomichi UEDA;False;2;True;Defender
